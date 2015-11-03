@@ -22,5 +22,6 @@ Use [CodePen](http://codepen.io/) as playground (create an account and create ne
 6. You can find cropped images in images directory, but you don't have to use all of them (CSS power!).
 7. Make use of keyboard as controller.
 8. Game over screen is available in [sources](https://github.com/netguru/frontend-recruitment-task/tree/master/sources) directory.
+9. Remember about users with retina screens.
 
 **Good luck! If you have any questions feel free to ping us!**
