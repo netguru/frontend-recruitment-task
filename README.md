@@ -19,7 +19,7 @@ Use [CodePen](http://codepen.io/) as playground (create an account and create ne
 3. You can write your game in pure JS or use framework of your choice (React, Ember or Angular preferred).
 4. Styles should be written in Sass (SCSS).
 5. Using newest ECMAScript Standard is a huge plus.
-6. Basic technology stack at Netguru includes also HAML Using it is a plus.
+6. Basic technology stack at Netguru includes also HAML. Using it is a plus.
 7. Pay attention to code quality, formatting, conventions etc. (Your code is your business card)
 8. You can find cropped images in images directory, but try not to use all of them (CSS power!).
 9. Make use of keyboard as controller.
