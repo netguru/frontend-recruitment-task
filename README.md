@@ -2,7 +2,7 @@
 
 Hey there!
 
-Thanks for joining recruitment for Front-end dev @ netguru. We have a small task for you!
+Thanks for joining recruitment for UI dev @ netguru. We have a small task for you!
 
 ![Preview](https://github.com/netguru/frontend-recruitment-task/blob/master/sources/hangman.png)
 
