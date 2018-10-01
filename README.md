@@ -2,9 +2,9 @@
 
 Hey there!
 
-Thanks for joining recruitment for Front-end dev @ netguru. We have a small task for you!
+Thanks for joining recruitment for UI dev @ netguru. We have a small task for you!
 
-![Preview](https://raw.githubusercontent.com/netguru/frontend-recruitment-task/master/sources/hangman.png)
+![Preview](https://github.com/netguru/frontend-recruitment-task/blob/master/sources/hangman.png)
 
 This is a simple Hangman game (you can find PSD in [sources](https://github.com/netguru/frontend-recruitment-task/tree/master/sources) directory). Can you make this stuff work?
 
@@ -15,7 +15,7 @@ Use [CodePen](http://codepen.io/) as playground (create an account and create ne
 ### Rules & hints
 1. Use real API for fetching random word. [Wordnik](http://developer.wordnik.com/docs.html#!/words) could be great for that.
 2. There should be no folk at game beginning. Game ends once folk earns left foot (see diverted flow below).
-![Flow](https://raw.githubusercontent.com/netguru/frontend-recruitment-task/master/imgs/flow.png)
+![Flow](https://github.com/netguru/frontend-recruitment-task/blob/master/imgs/flow.png)
 3. You can write your game in pure JS or use framework of your choice (React, Ember or Angular preferred).
 4. Styles should be written in Sass (SCSS).
 5. Using newest ECMAScript Standard is a huge plus.
