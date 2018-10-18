@@ -8,9 +8,9 @@ Thanks for joining recruitment for UI dev @ netguru. We have a small task for yo
 
 This is a simple Hangman game (you can find PSD in [sources](https://github.com/netguru/frontend-recruitment-task/tree/master/sources) directory). Can you make this stuff work?
 
-Use [CodePen](http://codepen.io/) as playground (create an account and create new pen, once you’re done send us link to your work). You can use any different platform or even create it using your own setup if you want but please remember that:
+Please remember that:
 + You should provide us with link to your game and it should work out of the box (we should click link and be able to play)
-+ We should be able to take a look at your code :) (link to CodePen, Github, ZIP file will work perfectly for us)
++ Once you’re ready to show us your work, pack everything to dropbox or drive and send the link over by email (please do not upload your solution to GitHub or any other publicly available platform)
 
 ### Rules & hints
 1. Use real API for fetching random word. [Wordnik](http://developer.wordnik.com/docs.html#!/words) could be great for that.
