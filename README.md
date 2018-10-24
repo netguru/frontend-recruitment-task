@@ -13,7 +13,7 @@ Please remember that:
 + Once you’re ready to show us your work, pack everything to dropbox or drive and send the link over by email (please do not upload your solution to GitHub or any other publicly available platform)
 
 ### Rules & hints
-1. Use real API for fetching random word. [Wordnik](http://developer.wordnik.com/docs.html#!/words) could be great for that.
+1. Use real API for fetching random word. [WordsAPI](https://www.wordsapi.com/) could be great for that.
 2. There should be no folk at game beginning. Game ends once folk earns left foot (see diverted flow below).
 ![Flow](https://github.com/netguru/frontend-recruitment-task/blob/master/imgs/flow.png)
 3. You can write your game in pure JS or use framework of your choice (React, Vue or Angular preferred).
